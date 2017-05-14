@@ -1,0 +1,87 @@
+	==========================================================|
+	|                                                         |
+	|                     AIM ROM 2017                        |
+	|                                                         |
+	|=========================================================|
+
+
+
+					--------COPY FROM HERE-----------
+
+
+
+Thread Title : [ROM][7.1.2][OFFICIAL] AIM ROM [OMS][Date][For yourdevice]
+
+
+
+
+[CENTER][IMG]https://raw.githubusercontent.com/AIMROM/graphics/graphics/670x250.png[/IMG][/CENTER]
+
+[CENTER][IMG]https://raw.githubusercontent.com/AIMROM/graphics/graphics/about.png[/IMG][/CENTER]
+[B][COLOR="Black"][CENTER]A ROM brought to you by AIMROM team,[/CENTER][/COLOR][/B]
+[CENTER][COLOR="black"][B]AIMROM[/COLOR]been developed based on CyanogenMod,With the combination of customization features from Various  roms...With full substractum Support officially ,and Will Bring you a Custom ROM with many customization features , high stability , Better battery life,and the Taste of the latest Android essence encapsulated in your smartphone [/B].[/CENTER]
+
+[B][SIZE="5"][COLOR="Green"]Introducing Nougat based AIMROM for  "Your Device Model"[/COLOR][/SIZE][/B]
+
+[CENTER][IMG]https://raw.githubusercontent.com/AIMROM/graphics/graphics/features.png[/IMG][/CENTER]
+[CENTER][B]Features of AIM ROM[/B]
+
+[B][I][COLOR="green"]EXPLORE THE FREEDOM HUB[/COLOR][/I][/B]
+
+[B][COLOR="blue"][SIZE="5"]Statusbar:[/COLOR][/SIZE][/B]
+[HIDE]
+[B][COLOR="green"][SIZE="3"]Superuser indicator on/of
+Network Traffic indicators
+Statusbar clock and date modifications
+ Custom carrier label
+ Custom Statusbar icons
+ Brightness Control
+ Double-Tap to Sleep[/SIZE][/COLOR][/B][/HIDE]
+
+[B][COLOR="blue"][SIZE="5"]UI:[/COLOR][/SIZE][/B]
+[HIDE]
+ [B][COLOR="green"][SIZE="3"]Custom Density settings
+ Media cover art on/off
+ Three Finger Screenshot[/SIZE][/COLOR][/B][/HIDE]
+ 
+[CENTER][B][SIZE="5"][COLOR="blue"]Buttons:[/COLOR][/SIZE][/B][/CENTER]
+[HIDE]
+[B][COLOR="green"][SIZE="3"] Hardware Key Configuration
+ Power Menu Configuration
+ Advanced reboot
+ FIngerprint vibration
+ Fingerprint keystore unlock[/SIZE][/COLOR][/B]
+[/HIDE]
+[B][SIZE="5"][COLOR="blue"]Misc:[/COLOR][/SIZE][/B]
+[HIDE]
+ [B][COLOR="green"][SIZE="3"]Alarm blocker
+ System app remover 
+ Screenshot Sound[/SIZE][/COLOR][/B][/HIDE]
+ 
+
+[COLOR="blue"][B][I]Also packed with Snapdragon Camera[/I][/B][/COLOR][/CENTER]
+
+
+[CENTER][IMG]https://raw.githubusercontent.com/AIMROM/graphics/graphics/Downloads.png[/IMG][/CENTER]
+[CENTER][HIDE]"your rom link"[/HIDE][/CENTER]
+
+[CENTER][IMG]https://raw.githubusercontent.com/AIMROM/graphics/graphics/meetourteam.png[/IMG][/CENTER]
+
+[CENTER][FONT="Comic Sans MS"][SIZE="5"]
+[COLOR="Navy"][SIZE=3]
+[B]
+Emmanuel N. D. Enlinger(not in xda) -->[B][I][COLOR="green"]Founder/project maintainer[/COLOR][/I][/B]
+[MENTION=7526018]Anand N v[/MENTION] --> [B][I][COLOR="green"]Co Founder/Head developer[/COLOR][/I][/B]
+[MENTION=7550463]Shadowreaper1[/MENTION]  --> [B][I][COLOR="green"]Lead developer[/COLOR][/I][/B]
+[MENTION=4168602]Klabit87[/MENTION] --> [B][I][COLOR="green"]Developer[/COLOR][/I][/B][/SIZE][/FONT][/CENTER][/COLOR][/B]
+
+[CENTER][IMG]https://raw.githubusercontent.com/AIMROM/graphics/graphics/keepintouch.png[/IMG][/CENTER]
+[CENTER][I][URL="http://t.me/aimrom"][B][COLOR="blue"]Our Telegram community[/COLOR][/B][/URL][/I][/CENTER]
+[CENTER][I][URL="https://plus.google.com/communities/111507505190229665939"][B][COLOR="blue"]Our google plus community[/COLOR][/B][/URL][/I][/CENTER]
+
+[CENTER][IMG]https://raw.githubusercontent.com/AIMROM/graphics/graphics/ourgit.png[/IMG][/CENTER]
+[CENTER][B][URL="http://github.com/aimrom"]WE ARE OPEN SOURCE <-- CLICK HERE[/URL] [/B][/CENTER]
+
+[URL="http://paypal.me/aimrom"][CENTER][IMG]https://raw.githubusercontent.com/AIMROM/graphics/graphics/shareyourlove.png[/IMG][/CENTER][/URL]
+[CENTER][B][FONT="Times New Roman"][COLOR="red"]DONATION IS NOT NECESSARY , BUT IT MAY HELP US TO PAY SERVER BILLS, EACH AND EVERY PENNY FROM YOU IS VERY IMPORTANT AND VALUABLE FOR US,[/COLOR] [/FONT][/B][/CENTER]
+[CENTER][B][I][COLOR="blue"][URL="https://paypal.me/aimrom"]CLICK HERE TO DONATE[/URL][/COLOR][/I][/B]:angel::angel:[/CENTER]
